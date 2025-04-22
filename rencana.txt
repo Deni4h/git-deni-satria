@@ -1,6 +1,8 @@
 Rencana Petani Kode :
 
 -FLutter
-
+- golang
 -Python
 -Framework
+-bash
+-cmd

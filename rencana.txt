@@ -7,4 +7,3 @@ Rencana Petani Kode :
 -bash
 -cmd
 halo nama saya kevin
-hobi saya bermain bola
